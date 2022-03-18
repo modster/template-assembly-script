@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/modster.asc-l0w949r4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve NyPXl91EsOMvbdbbVrY2 --open"
+  }
+}
